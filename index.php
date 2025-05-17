@@ -46,6 +46,7 @@
             <li><a href="http://f1120905.xsph.ru/lab3/patterns/factory_use.php">Factory Method</a></li>
             <li><a href="//www.plantuml.com/plantuml/png/dLBDQl905DtFKzo5y2LyIFSkMg4lK0fTopHEPM2IoCoaFuYWqbtx0Dtq7QmqL6tr6UwyKMyIHsEpqrNkEUUUUmPFrrYkRHOhzW_m3JTkXhcRk6VCSUMc4E0SFzpKpTo4ljR4RjmBhW3N-8rp8gOXuxV6QXvPY1Gt1gxJp0eD8mRq-p_aseWWqwe3f9B98En0B1z57qPqsSfeNEcqIFf21yJUfv98Rpe6DcQiShvCbHAHbMdYtNkzA4r8c4KsYFPi1owurlmfFBRs2UgeAU1I31NST3dSlp6qu4zdnU0rpJH7T7ZmkE83iVUetbfVsqNU9GKV_JY3N_UgbeYvL2NMtcD3KZ-akh-JjkwaDhQNy5XuH74Fd1QcUamZZ9LMYJyOULgHs1CEKIlVYw9HtNByn2qkS8uRN68EPu1VD2nmIVGIVt1R5lMLLVzJktrUQmmhiZR0msV9LDKjz-jpiLgVkvGlYzKl">Диаграмма классов</a></li>
             <li><a href="http://f1120905.xsph.ru/lab3/patterns/mvc/mvc_use.php">MVC</a></li>
+            <li><a href="https://www.plantuml.com/plantuml/svg/RL513e8m4Bpt5HjE4k437Wo9yQW74xsQJMa8iHIpBHgZ_DsbWb3qs9cTcTrfPXsIQoeDrKqASKLvmK91nAy8dW90QhGMZbRHfZQEQgqLUG8WXOPX2oj08dnuR7a-ozfOHurqYnW-61JATGuCZBEj6As_XWOhnJEiBqtHOvpvWwaAIns2GNBWauGMoKmTZqlkMUQNdFfsn84D_XBRpYfaXiDsI9UylfjJgUxzWKiWPN8k8aU7GnSpSIk4cDMTfg-rx-alCSrXRSO9_9_Y3G00.svg">Ещё диаграмма классов</a></li>
         </ul>
 
         <li><a href="#">Лабораторная работа №4</a></li>
