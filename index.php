@@ -44,7 +44,7 @@
         <ul>
             <li><a href="http://f1120905.xsph.ru/lab3/patterns/singleton/settings_use.php">Singleton</a></li>
             <li><a href="http://f1120905.xsph.ru/lab3/patterns/factory_use.php">Factory Method</a></li>
-            <li><a href="https://www.plantuml.com/plantuml/svg/ZLD1RiCW4BppYbNaWwqw7x1Q9L8_45NgEQA4HAWOB5ZQHgd_NY26u3PjSsHsTcPtWBL5Qj3r4lQKeJP7GWRANkc1ms925d0Y0FJ5el40F6c7t4GCu0vENW056s6WnlBQauGwGEMCR3henGVV9M9I6C5mjUEczeGtBK9z94nIQ-5HIyaP2gso_dRBjFADZc6zeiRG8rJiGdi0vQHi9l9PsDODT12vCpp2vm4BpqtODRcXGCaBKi2yFtA5tGminqexn-OMqd7gQswSmUOXXd3g86pBZt_447bN4xZkycnzDjd5XTCDBf5Nk9HgMOptLCXasUOzh7tNPlSTtmjZSQjexvDUpKjU-PVAjS2ZwoNmvDUcNgWkLjC6HIrx_HUXH-FU8o7Jux__N2wBnpg3mrsIuY5dqFv0uuKGGjRUqN_1Bm00">Диаграмма классов</a></li>
+            <li><a href="//www.plantuml.com/plantuml/png/dLBDQl905DtFKzo5y2LyIFSkMg4lK0fTopHEPM2IoCoaFuYWqbtx0Dtq7QmqL6tr6UwyKMyIHsEpqrNkEUUUUmPFrrYkRHOhzW_m3JTkXhcRk6VCSUMc4E0SFzpKpTo4ljR4RjmBhW3N-8rp8gOXuxV6QXvPY1Gt1gxJp0eD8mRq-p_aseWWqwe3f9B98En0B1z57qPqsSfeNEcqIFf21yJUfv98Rpe6DcQiShvCbHAHbMdYtNkzA4r8c4KsYFPi1owurlmfFBRs2UgeAU1I31NST3dSlp6qu4zdnU0rpJH7T7ZmkE83iVUetbfVsqNU9GKV_JY3N_UgbeYvL2NMtcD3KZ-akh-JjkwaDhQNy5XuH74Fd1QcUamZZ9LMYJyOULgHs1CEKIlVYw9HtNByn2qkS8uRN68EPu1VD2nmIVGIVt1R5lMLLVzJktrUQmmhiZR0msV9LDKjz-jpiLgVkvGlYzKl">Диаграмма классов</a></li>
             <li><a href="http://f1120905.xsph.ru/lab3/patterns/mvc/mvc_use.php">MVC</a></li>
         </ul>
 
